@@ -1,0 +1,26 @@
+.me1{
+    display: inline;
+    margin: 10%;
+   
+    text-decoration: none;
+   
+    }
+    .active{
+    color: black;
+    font-weight: bolder;
+  background-color: rgba(248, 248, 248, 0.87);
+}
+  .me2{
+      float:right ;
+      color: red;
+  }
+  .media{
+      height:30vh;
+  }
+
+ .card1{
+   margin-bottom: 1%;
+ }
+
+
+
